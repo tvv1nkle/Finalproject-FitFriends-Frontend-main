@@ -23,6 +23,9 @@ function App() {
         <div className='useronline'>
           <Useronline />
         </div>
+        <div className='Date'>
+           <Date/>
+        </div>
       </div>
 
 
